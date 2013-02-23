@@ -1,0 +1,5 @@
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Release\OutlookTaskExtract.csprojResolveAssemblyReference.cache
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Release\OutlookTaskExtract.MainForm.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Release\OutlookTaskExtract.Properties.Resources.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Release\OutlookTaskExtract.Resource.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Release\OutlookTaskExtract.csproj.GenerateResource.Cache

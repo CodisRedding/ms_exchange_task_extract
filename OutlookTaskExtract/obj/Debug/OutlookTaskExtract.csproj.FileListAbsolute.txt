@@ -1,0 +1,23 @@
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\bin\Debug\OutlookTaskExtract.exe
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\bin\Debug\OutlookTaskExtract.pdb
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.Form1.resources
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.Properties.Resources.resources
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.csproj.GenerateResource.Cache
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.exe
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.pdb
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Documents and Settings\rassad\My Documents\Visual Studio 2008\Projects\OutlookTaskExtract\OutlookTaskExtract\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.exe
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\OutlookTaskExtract.exe
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\OutlookTaskExtract.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.Properties.Resources.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.csproj.GenerateResource.Cache
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\CsvHelper.dll
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\CsvHelper.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\CsvHelper.xml
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.MainForm.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\bin\Debug\Resources\Users.csv
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.Resource.resources
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtract\obj\Debug\OutlookTaskExtract.csprojResolveAssemblyReference.cache

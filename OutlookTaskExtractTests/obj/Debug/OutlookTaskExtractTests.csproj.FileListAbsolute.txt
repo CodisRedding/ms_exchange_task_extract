@@ -1,0 +1,13 @@
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\OutlookTaskExtractTests.dll
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\OutlookTaskExtractTests.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\obj\Debug\OutlookTaskExtractTests.csprojResolveAssemblyReference.cache
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\obj\Debug\OutlookTaskExtractTests.dll
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\obj\Debug\OutlookTaskExtractTests.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\OutlookTaskExtract.exe
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\OutlookTaskExtract.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\CsvHelper.dll
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\CsvHelper.pdb
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\CsvHelper.xml
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\Resources\Users.csv
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\bin\Debug\Microsoft.Exchange.WebServices.xml

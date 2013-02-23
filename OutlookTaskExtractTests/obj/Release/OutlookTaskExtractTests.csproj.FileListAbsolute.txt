@@ -1,0 +1,1 @@
+C:\Users\rocky\projects\cloudspokes_outlook_tasks\OutlookTaskExtractTests\obj\Release\OutlookTaskExtractTests.csprojResolveAssemblyReference.cache
