@@ -1,4 +1,6 @@
-"# Exchange 2010 task extraction" 
+# Exchange 2010 task extraction
+
+Extracts the tasks of all users listed in a csv file from exchange using exchange web services.
 
 1. Select the version of Exchange
 2. Enter Exchange user credentials. 
